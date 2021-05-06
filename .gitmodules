@@ -1,0 +1,3 @@
+[submodule "docs-travis-ci-com"]
+	path = docs-travis-ci-com
+	url = https://github.com/Jsn2win/docs-travis-ci-com/
